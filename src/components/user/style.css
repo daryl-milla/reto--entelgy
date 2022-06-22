@@ -1,0 +1,25 @@
+.card-user-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border: 1px solid #11101d;
+    align-items: center;
+    padding: 0 30px;
+}
+
+.card-container-button {
+    display: flex;
+    align-items: center;
+}
+
+.viewMore {
+    background: black;
+    color: white;
+    border-radius: 100px;
+    padding: 5px 10px;
+ }
+
+ .avatar {
+    border-radius: 100px;
+ }
+ 
